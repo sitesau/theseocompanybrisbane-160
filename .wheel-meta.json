@@ -1,0 +1,22 @@
+{
+  "wheel_id": 961,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-160",
+  "project": "seo-services-brisbane-cost-guide-b03d9f90fa5eae0c520ce932638f0c",
+  "parent_t1_ref": "theseocompanybrisbane-011",
+  "node_role": "buffer",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane cost guide",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-brisbane-cost-guide-b03d9f90fa5eae0c520ce932638f0c/",
+  "tier": "T2",
+  "writeback_nonce": "38c084cf731e2c17",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/seo-services-brisbane-011/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
